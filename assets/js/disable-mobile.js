@@ -1,7 +1,7 @@
 
 function disableScriptsOnMobile() {
     // Vérifier si la largeur de l'écran est inférieure ou égale à 780 pixels
-    if (window.screen.width <= 780) {
+    if (window.screen.width <= 1023) {
         // Si oui, quitter la fonction sans rien faire
         return;
     }
