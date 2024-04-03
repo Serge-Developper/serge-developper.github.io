@@ -407,6 +407,10 @@ input {
   
 }
 
+.video::-webkit-media-controls-start-playback-button {
+    display: none;
+}
+
 .content_video {
   position: absolute;
   top: 50%;
