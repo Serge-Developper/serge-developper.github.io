@@ -1574,13 +1574,13 @@ footer {
   height: 1px;
   width: 312px;
   background-color: #ffffff;
-  /* margin: 18px 0px 10px 0px; */
+  margin: 15px 0px 10px 0px;
   position: relative;
-  left: -10px;
+  left: 0;
   right: 0;
   width: 85%;
   display: flex;
-  /* margin: 20px 0px 10px 20px; */
+  margin: 0 auto;
   justify-content: center;
 }
 
